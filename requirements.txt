@@ -1,0 +1,11 @@
+flask
+Flask-SSLify
+gunicorn
+flask-mysqldb
+boto3
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+flask_mail
